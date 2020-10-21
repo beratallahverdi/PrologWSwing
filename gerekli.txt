@@ -1,0 +1,5 @@
+SWI_HOME_DIR : D:\DevTools\Prolog
+PATH : D:\DevTools\Prolog\bin\;
+
+eur.csv: D:\eur.csv
+prolog.pl: D:\prolog.pl
